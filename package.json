@@ -1,0 +1,19 @@
+{
+  "name": "sprite_sheet_decomposer",
+  "version": "1.0.0",
+  "description": "decomposing mapbox sprite sheets",
+  "main": "index.js",
+  "dependencies": {
+    "node-png": "^0.4.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "sprite",
+    "decompose",
+    "sheet"
+  ],
+  "author": "Búcsú Dávid",
+  "license": "ISC"
+}
